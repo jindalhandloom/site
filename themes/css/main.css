@@ -143,7 +143,6 @@ iframe{
 	border-bottom:2px solid #eee;
 }
 /* end common */
-
 /* top bar
 ----------------------------------------------------------------------------- */
 #top-bar{
@@ -737,9 +736,6 @@ section.our_client .row{
 	.navbar-inner.main-menu{
 		border-bottom:0 !important;
 	}
-	section.homepage-slider{
-		display:none;
-	}
 	.account.pull-right{
 		width:100%;
 		text-align:center;
@@ -774,5 +770,8 @@ section.our_client .row{
 	}
 	.feature_box .service{	
 		border-bottom:1px solid #eee;
+	}
+	img.banner-img {
+		height: 200px !important;
 	}
 }
