@@ -4,12 +4,12 @@
 /* common
 ----------------------------------------------------------------------------- */
 body{
-	font-size: 12px;
+	font-size:1.0em;
 	font-family: 'Open Sans', arial, tahoma, sans-serif;
 	background:url(../images/bg.png) repeat 0 0 fixed;
 }
 label, input, button, select, textarea{
-	font-size: 12px;
+	font-size:1.0em;
 }
 ul li a,a{
 	color:#333;
@@ -66,7 +66,7 @@ a:hover{
 }
 .nav-tabs li.active, .accordion .accordion-heading {
 	font-weight: bold;
-	font-size: 12px;
+	font-size:1.0em;
 }
 #wrapper,#top-bar{
 	background: #fff;
@@ -88,7 +88,7 @@ section.header_text{
 	background:url(../images/bg_h.png) no-repeat bottom;
 	text-align:center;
 	padding:15px 0 20px 0;
-	font-size:16px;
+	font-size:1.4em;
 	line-height:30px;
 	border-bottom:1px solid #fff;
 }
@@ -112,7 +112,7 @@ section.homepage-slider h1{
 	background-color:#eb4800;
 	color:#fff;
 	padding:2px 7px;
-	font-size:30px;
+	font-size:1.8em;
 	text-transform:uppercase;
 	float:left;
 	width:auto;
@@ -127,12 +127,12 @@ section.homepage-slider span{
 	color:#000;	
 	padding:2px 10px;
 	line-height:30px;
-	font-size:28px;
+	font-size:1.8em;
 	float:left;
 	width:auto;
 }
 section.header_text.sub{
-	font-size:14px;
+	font-size:1.1em;
 	margin-bottom:40px;
 }
 section.header_text.sub h4{
@@ -190,7 +190,7 @@ section#footer-bar .post {
 	padding:5px 0;
 }
 section#footer-bar .post span{
-	font-size:10px;
+	font-size:0.9em;
 }
 section#footer-bar .posts .post:first-child{
 	border-top:0;
@@ -215,7 +215,7 @@ section#footer-bar  .nav a{
 }
 section#footer-bar h4 {
 	padding: 0;
-	font-size: 16px;
+	font-size:1.4em;
 	color: #fff;
 	font-weight:normal;
 	margin: 10px 0 18px;	
@@ -259,7 +259,7 @@ section#footer-bar .social_icons a.vimeo:hover {
 section#copyright{
 	background-color:#111111;
 	color:#fff;
-	font-size:10px;
+	font-size:0.9em;
 	text-transform:uppercase;	
 }
 /* end footer */
@@ -286,7 +286,7 @@ section.navbar{
 	position:absolute;
 }
 .navbar-inner.main-menu ul ul a{
-	font-size:13px;
+	font-size:1.1em;
 	font-weight:normal;
 	line-height:17px;
 	text-transform: none;
@@ -302,14 +302,14 @@ section.navbar{
 	margin-right: 0px;
 }
 #menu > ul > li > a {
-	font-size: 11px;
+	font-size:0.9em;
 	color: #111;
 	display: block;
 	text-transform: uppercase;
 	font-weight: bold;
 	text-align: center;
 	padding: 10px 14px;
-	}
+}
 #menu > ul > li.active{
 	background-color:#eb4800;
 }
@@ -350,7 +350,7 @@ section.navbar{
     display: block;
     padding:7px 10px;
     color: #333;
-    font-size: 12px;
+    font-size:1.0em;
 }
 #menu ul ul a:hover,#menu > ul > li:hover > a{color: #fff;background-color:#eb4800}
 #menu ul ul a:hover{background-color:#eb4800;}
@@ -450,14 +450,14 @@ section.navbar{
 	color:#111111;
 	display:inline-block;
 	font-weight:bold;
-	font-size:11px;
+	font-size:1.1em;
 	margin:15px 0 0px 0;
 }
 .product-box a.category{
 	color:#eb4800;
 }
 .product-box p.price{
-	font-size:20px;
+	font-size:1.4em;
 	font-weight:300;
 	padding:10px 0;
 }
@@ -471,7 +471,7 @@ h4.title{
 	margin-bottom:15px;
 	overflow:hidden;
 	text-transform:uppercase;
-	font-size:15px;
+	font-size:1.3em;
 	min-height:27px;
 	width:100%;
 }
@@ -535,7 +535,7 @@ section.our_client .row{
 	min-height:210px;
 }
 #homeTab li{
-	font-size:11px;
+	font-size:0.9em;
 }
 #homeTab li.active{
 	font-weight:bold;
@@ -566,7 +566,7 @@ section.our_client .row{
 .pricing .title {
 	text-align: center;
 	text-shadow: none;
-	font-size: 22px;
+	font-size:1.6em;
 	line-height: 1.5em;
 	margin: 0;
 	padding:7px;
@@ -591,7 +591,7 @@ section.our_client .row{
 .pricing ul li {
 	border-bottom: 1px solid #eee;
 	padding: 6px 0;
-	font-size: 1.2em;
+	font-size:1.0em;
 	color: #222;
 }
 .pricing .price {
@@ -601,7 +601,7 @@ section.our_client .row{
 	text-align: center;
 	padding: 20px 0;
 	text-shadow: none;
-	font-size: 20px;
+	font-size:1.6em;
 	font-weight:80px;
 }
 .pricing .well {
@@ -644,7 +644,7 @@ section.our_client .row{
 	text-align: left;
 	border-bottom: 1px dotted #eee;
 	padding: 5px 0;
-	font-size:11px;
+	font-size:0.9em;
 }
 .small-product li img {
 	width: 50px;
